@@ -11,5 +11,7 @@ Moreover, this project offers hands-on experience with GitHub version control an
 ## Requirements
 
 All dependencies are listed in the `requirements.txt` file.
-![Uploading Screenshot 2024-03-25 190918.png…]()
+
+
+![Screenshot 2024-03-25 190918](https://github.com/yash9373/ML_Project/assets/101787484/1ed6c230-a98d-4ad4-a4a3-033d7b002def)
 
